@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: rgb(157,0,93);
+}
+footer{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.img-footer{
+	width: 60%;
+	height: 60%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.cont-h2{
+	position: absolute;
+	width: 20%;
+	top: 32%;
+	left: 40%;
+	line-height: 31.7px;
+	letter-spacing: 0.06em;
+}
